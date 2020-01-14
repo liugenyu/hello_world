@@ -1,2 +1,3 @@
 # hello_world
-test
+hi humans!
+hubot here,I like nods.js and coffeescript.
